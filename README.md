@@ -11,7 +11,7 @@ Fácil de programar
 
 Pense em automatizar, gerar telas dinâmicamente!!
 
-Veja o livro: Java Look and Feel Design Guidelines (2nd Edition) | Manualzz (É antigo mas tem boas ideias sobre GUI Desktop)
+Veja o livro: Java Look and Feel Design Guidelines (2nd Edition) - É antigo mas tem boas ideias sobre GUI Desktop
 
 Nem tudo cabe em ambiente mobile!!
 
